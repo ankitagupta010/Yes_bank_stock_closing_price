@@ -60,4 +60,4 @@ The dataset used in this project is stored in the "data" folder.
 
 The project aims to create a model capable of predicting Yes Bank's closing stock price, considering the impact of the fraud case involving Rana Kapoor. Future enhancements could include exploring daily-level stock price data, incorporating additional features, and evaluating time series models for more precise predictions.
 
-For further information and assistance, feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/ankita-gupta-6a168925a/)https://www.linkedin.com/in/ankita-gupta-6a168925a/).
+For further information and assistance, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ankita-gupta-6a168925a/).
